@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyConverterJPG</string>
+    <string name="text_button">Конвертировать</string>
+    <string name="choose_pictore">Выбрать картинку</string>
 </resources>
